@@ -4,3 +4,4 @@ pytest-cov
 future
 docutils
 Pygments
+git+https://github.com/jayvdb/stdio-mgr@output-handles#egg=stdio-mgr
